@@ -1,0 +1,35 @@
+.bg-secondary {
+    background-color: #4c4c4c !important;
+}
+.copyright {
+    background-color: #f3e7cd;
+}
+.copyright h3,
+h4,
+p.text {
+    color: #cf9b32;
+}
+.bg-primary {
+    background-color: #1abc9c !important;
+}
+nav {
+    font-weight: 700;
+}
+.img-card {
+    height: 18vw;
+    object-fit: cover;
+}
+.container a.nav-link.active {
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.container a.nav-link.active:hover {
+    color: #cf9b32;
+    text-decoration: #cf9b32 underline;
+}
+.btn:hover {
+    background-color: #cf9b32;
+    color: azure;
+}
